@@ -1,24 +1,7 @@
 ### Hey o/
 
 My name's Nic, and I'm a motion designer and full stack designer based in the US.<br>
-You can reach me here:
+You can reach me at [io@nicholai.design](mailto:io@nicholai.design).<br>
 
-[@<!-- -->nicholaidesign](http://twitter.com/nicholaidesign)<br>
-[io@nicholai.design](mailto:io@nicholai.design)<br>
-[be.net/nicholaidesign](http://be.net/nicholaidesign)
+<a href="https://twitter.com/nicholaidesign"><img src="assets/Twitter.png" width=30></a> &nbsp; <a href="https://be.net/nicholaidesign"><img src="assets/Behance.png" width=30></a> &nbsp; <a href="https://youtube.com/enwash"><img src="assets/Youtube.png" width=30></a>
 
-
-<!--
-**enwash/enwash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
