@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey o/
+
+My name's Nic, and I'm a motion designer and full stack designer based in the US.<br>
+You can reach me here:
+
+[@<!-- -->nicholaidesign](http://twitter.com/nicholaidesign)<br>
+[io@nicholai.design](mailto:io@nicholai.design)<br>
+[be.net/nicholaidesign](http://be.net/nicholaidesign)
+
 
 <!--
 **enwash/enwash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
