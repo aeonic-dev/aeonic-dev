@@ -1,4 +1,4 @@
-### Hey o/
+### o/
 
 My name's Nic, and I'm a motion designer and full stack designer based in the US.<br>
 You can reach me at [io@nicholai.design](mailto:io@nicholai.design).<br>
