@@ -1,4 +1,4 @@
-### o/
+### <b>o/</b>
 
 My name's Nic, and I'm a motion designer and developer based in the US.<br>
 You can reach me at [io@nicholai.design](mailto:io@nicholai.design) and through my socials.<br>
