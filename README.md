@@ -2,7 +2,7 @@
 
 Hey, I'm Nic!
 
-I'm a 3d artist, motion designer and developer based in the US currently pursuing an AAS in Digital Gaming & Simulation.
+I'm a 3D motion graphics artist, designer & developer based in the US. I'm currently pursuing a Bachelor's in Computer Science at the University of Central Florida.
 
 You can reach me at [io@aeonic.design](mailto:io@aeonic.design).<br>
 
